@@ -14,4 +14,8 @@ In ri285 fork has changed the code
 ![alt text](image.png)
 
 So we have to find the hidden_encrypted_pass and run the script
+We will find the author Riya comment on David linkedin post
+![alt text](<Screenshot 2025-03-09 224946.png>)
 
+And decrypt it will get the flag
+![alt text](<Screenshot 2025-03-09 225021.png>)
